@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AC-Setroc
 - 👀 I’m interested in learning different programming languages and methods, as well as to get certified in development.
-- 🌱 I’m currently a Data or BI Analyst working for trech companies.
+- 🌱 I’m currently a Data or BI Analyst working for tech companies.
 - 💞️ I’m looking to collaborate on any project I can learn from and share my expertise.
 - 📫 You can reach me at alejandro.cortesburgos@outlook.com
 
